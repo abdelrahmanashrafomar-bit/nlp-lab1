@@ -2,7 +2,6 @@
 
 > Production-grade sentiment analysis and document search over noisy, real-world text — a reusable NLP pipeline that ships a sentiment classifier **and** a BM25 search engine as a live, Dockerized FastAPI service.
 
-[![CI](https://github.com/alyayman2020/nlp-intelligence-system/actions/workflows/ci.yml/badge.svg)](https://github.com/alyayman2020/nlp-intelligence-system/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -74,7 +73,7 @@ Close and reopen your terminal, then verify: `uv --version`.
 ### 2. Clone & install
 
 ```bash
-git clone https://github.com/alyayman2020/nlp-intelligence-system.git
+git clone https://github.com/abdelrahmanashrafomar-bit.git
 cd nlp-intelligence-system
 
 uv venv --python 3.11        # create .venv with Python 3.11
@@ -262,4 +261,4 @@ MIT — see [`LICENSE`](LICENSE).
 
 ---
 
-**Author:** Aly Ayman
+**Author:** abdelrahman ashraf
